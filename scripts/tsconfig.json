@@ -1,13 +1,13 @@
 {
   "compilerOptions": {
     "allowJs": true,
-    "baseUrl": "C:/Users/T-Gamer/AppData/Local/Temp/53a0-4521-2927-4773/61082fbc1aab88c874e638a8d2f4adad0b42c",
+    "baseUrl": "C:/Users/T-Gamer/AppData/Local/Temp/4f86-cafb-61c4-6697/61082fbc1aab88c874e638a8d2f4adad0b42c",
     "checkJs": true,
     "esModuleInterop": true,
     "lib": [
       "ES2019"
     ],
-    "outDir": "C:/Users/T-Gamer/AppData/Local/Temp/53a0-4521-2927-4773/61082fbc1aab88c874e638a8d2f4adad0b42c/out-dir",
+    "outDir": "C:/Users/T-Gamer/AppData/Local/Temp/4f86-cafb-61c4-6697/61082fbc1aab88c874e638a8d2f4adad0b42c/out-dir",
     "paths": {
       "*": [
         "skylight-typedefs/*",
@@ -15,7 +15,7 @@
       ]
     },
     "typeRoots": [
-      "C:/Users/T-Gamer/AppData/Local/Temp/53a0-4521-2927-4773/61082fbc1aab88c874e638a8d2f4adad0b42c/skylight-node_modules/@types"
+      "C:/Users/T-Gamer/AppData/Local/Temp/4f86-cafb-61c4-6697/61082fbc1aab88c874e638a8d2f4adad0b42c/skylight-node_modules/@types"
     ],
     "types": [
       "node"
