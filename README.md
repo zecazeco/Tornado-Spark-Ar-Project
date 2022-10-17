@@ -1,7 +1,7 @@
 # Tornado-Spark-Ar-Project
 Spark AR project developed on "2020 Spark AR Creator Collab" acceleration program and improved during the Eddy Adams course ([Spark AR Masterclass](https://www.sparkarmasterclass.com/))
 
-Developed Version: **Spark AR Studio v106**
+Developed Version: **Spark AR Studio v148**
 
 Effect Link: [https://www.instagram.com/ar/1086391031820313/](https://www.instagram.com/ar/1086391031820313/)
 ## Features
